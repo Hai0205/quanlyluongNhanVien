@@ -1,0 +1,18 @@
+D:\Khanh Bang\Study\Lập Trình .Net\Projects\QL_TienLuongNhanVien\QL_TienLuongNhanVien\bin\Debug\QL_TienLuongNhanVien.exe.config
+D:\Khanh Bang\Study\Lập Trình .Net\Projects\QL_TienLuongNhanVien\QL_TienLuongNhanVien\bin\Debug\QL_TienLuongNhanVien.exe
+D:\Khanh Bang\Study\Lập Trình .Net\Projects\QL_TienLuongNhanVien\QL_TienLuongNhanVien\bin\Debug\QL_TienLuongNhanVien.pdb
+D:\Khanh Bang\Study\Lập Trình .Net\Projects\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.csprojResolveAssemblyReference.cache
+D:\Khanh Bang\Study\Lập Trình .Net\Projects\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.Properties.Resources.resources
+D:\Khanh Bang\Study\Lập Trình .Net\Projects\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.csproj.GenerateResource.Cache
+D:\Khanh Bang\Study\Lập Trình .Net\Projects\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.exe
+D:\Khanh Bang\Study\Lập Trình .Net\Projects\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.pdb
+D:\Khanh Bang\Study\Lập Trình .Net\Projects\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.frmQL_NhanVien.resources
+C:\Users\DELL\Documents\QL_TienLuongNhanVien\QL_TienLuongNhanVien\bin\Debug\QL_TienLuongNhanVien.exe.config
+C:\Users\DELL\Documents\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.exe
+C:\Users\DELL\Documents\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.pdb
+C:\Users\DELL\Documents\QL_TienLuongNhanVien\QL_TienLuongNhanVien\bin\Debug\QL_TienLuongNhanVien.exe
+C:\Users\DELL\Documents\QL_TienLuongNhanVien\QL_TienLuongNhanVien\bin\Debug\QL_TienLuongNhanVien.pdb
+C:\Users\DELL\Documents\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.frmQL_NhanVien.resources
+C:\Users\DELL\Documents\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.Properties.Resources.resources
+C:\Users\DELL\Documents\QL_TienLuongNhanVien\QL_TienLuongNhanVien\obj\Debug\QL_TienLuongNhanVien.csproj.GenerateResource.Cache
